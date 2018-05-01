@@ -101,15 +101,22 @@ Back upstairs. These stain glass windows give the whole house a golden glow ever
 
 ![Image of stainglass](photos/stainglass.jpg)
 
-I never spent much time in the branch office. These computers aren't around anymore; they were found thrown in the gorge next door a couple months ago. 
+I never spent much time in the branch office. These are new computers; the old ones were found thrown in the gorge next door a couple months ago. 
 
 ![Image of email regarding computers](documents/office_cpus.jpg)
 
-You can see Cayuga lake from the balcony. Maybe smell some smoke too. 
+You can see a couple fraternities from the balcony. Maybe smell some smoke too. 
 
-![Image of balcony](photos/balcony_pano.JPG)
-![Image of balcony](photos/balcony1.JPG)
+![Image of balcony](photos/balcony_full.JPG)
 ![Image of balcony](photos/balcony2.jpg)
+
+Since our previous House and Grounds committee left, the chairs have been left broken.
+
+![Image of balcony](photos/balcony3.JPG)
+
+Like, really broken. 
+
+![Image of balcony](photos/balcony4.JPG)
 
 We're blessed with massive bedrooms, even for doubles. 
 
@@ -128,7 +135,7 @@ Here are some views I had from different bedroom windows throughout the semester
 
 Another floor up and we're at the attic. Mostly used to store stuff, although rumored to have housed some hanky panky activities. 
 
-![Image of attic](photos/attic.jpg)
+![Image of attic](photos/attic_1.jpg)
 
 Never mind that. This ladder leads to the roof...
 
