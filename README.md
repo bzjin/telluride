@@ -1,7 +1,17 @@
 ### The Telluride House
 #### By Beatrice Jin
 
-This is the Cornell Branch of the Telluride House. I lived here for two and half years (five semesters) during my undergrad. Among other things, Telluride has been called an "intellectual non-fraternity", the "the happiest phase of my life", "elitist", "inbred", "vanguardist", "a club for smart kids", and "a structure of fairness needs to be so fucked up by Smirnoff and red wine that people stop thinking about fairness, goodness, and ethics, and only consider functional responsibility" [[1]](#notes)? Needless to say, it’s a contentious, yet mysterious spot on campus. I thought I’d give a digital tour of the place, hopefully clearing up some of the fog. 
+This is the Cornell Branch of the Telluride House. I lived here for two and half years (five semesters) during my undergrad. Among other things, Telluride has been called:
+
+  * an "intellectual non-fraternity"
+  * the "the happiest phase of my life"
+  * "elitist", "inbred", "vanguardist"
+  * "a club for smart kids"
+  * "a structure of fairness needs to be so fucked up by Smirnoff and red wine that people stop thinking about fairness, goodness, and ethics, and only consider functional responsibility" [[1]](#notes)
+
+Needless to say, it’s a contentious, yet mysterious spot on campus. I thought I’d give a digital tour of the place, hopefully clearing up some of the fog. 
+
+![Image of Telluride](photos/intro2.jpg)
 
 Here's a floor plan of Telluride, obtained from the City of Ithaca. Standing at four stories, not including the attic, Telluride is a pretty grand place. It also offers a pretty grand scholarship up to five years of free room and board.
 
@@ -36,16 +46,29 @@ Telluride has a food budget each year of about $77,000 USD. This covers three me
 Back upstairs. These stain glass windows give the whole house a golden glow every evening. 
 
 I never spent much time in the branch office. These computers aren't around anymore; they were found thrown in the gorge next door a couple months ago. 
+![Image of email regarding computers](documents/office_cpus.jpg)
 
 You can see Cayuga lake from the balcony. Maybe smell some smoke too. 
 
-We're blessed with massive bedrooms, even for doubles. Here are some views I had from different bedroom windows throughout the semesters.
+We're blessed with massive bedrooms, even for doubles. 
+![Image of room](photos/room1.jpg)
+
+Sometimes life just gets the best of you.
+![Image of room](photos/room2.jpg)
+
+Here are some views I had from different bedroom windows throughout the semesters.
+![Image of room view](photos/bedroom_view1.jpg)
 
 Another floor up and we're at the attic. Mostly used to store stuff, although rumored to have housed some hanky panky activities. 
+![Image of attic](photos/attic.jpg)
 
 Never mind that. This ladder leads to the roof...
+![Image of attic stairs](photos/attic_stairs.jpg)
 
 ...which unveils a unique and beautiful view of the city of Ithaca. A lot more can be said about that, but we can talk about it later. 
+![Image of roof view](photos/roof_view1.jpg)
+![Image of roof view](photos/roof_view3.jpg)
+![Image of roof view](photos/roof_view4.jpg)
 
 #### Notes
 [1] Quotes from anonymous, Francis Perkins, William T. Vollmann, the 2013 Telluride Association's Convention Report, and Albert. 
