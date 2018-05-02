@@ -33,41 +33,68 @@ Let’s go inside. This is the foyer, where we set up receptions and get our mai
 ![Image of foyer](photos/foyer4.jpg)
 ![Image of foyer](photos/foyer5.jpg)
 
+These phones are what really date this place (the House was first opened in 1911). 
+
+![Image of phone](photos/phone1.JPG)
+![Image of foyer](photos/phone2.JPG)
+
 Take a left; we’re at the living room. This room hasn’t changed much for the past 100 years. The second image here is a photograph of the same room circa 1912.
-![Image of living room](photos/living.jpg)
+
+![Image of living room](photos/living_room.JPG)
 ![Image of living room](photos/old_living.JPG)
 
 House members use this space for public speeches, cuddling, and general hangouts.
+
 ![Image of living room](photos/living4.jpg)
 ![Image of living room](photos/livingroom.jpg)
 ![Image of living room](photos/living5.JPG)
 ![Image of living room](photos/living6.JPG)
 
-Two open doors and a secret door behind the projector screen lead to the music room and library. In my opinion, two of the most beautiful spaces, filled with old books, theses, encyclopedias, and records. 
+Two open doors and a secret door behind the projector screen lead to the music room and library.
 
-![Image of library](photos/library.JPG)
+![Image of library](photos/library_room.JPG)
 ![Image of library](photos/library3.JPG)
-![Image of library](photos/library4.jpg)
+![Image of library](photos/library4.JPG)
+![Image of library](photos/music.JPG)
+
+They are full of books, encyclopedias, old records, dusty documents, and theses.
+
+![Image of books](photos/library_books1.JPG)
+![Image of books](photos/library_books3.JPG)
+![Image of books](photos/library_books4.JPG)
 
 The striped room looms on the other side of the foyer. Easily the most intense room - home to 5AM house meetings, heated arguments that have broken friendships. This is where all legislation is discussed and passed. 
 
-![Image of striped room](photos/striped1.jpg)
+![Image of striped room](photos/striped_room_full.jpg)
 ![Image of striped room](photos/striped3.jpg)
 ![Image of Samir](photos/samir.jpg)
 
 Let's move on from the hard stuff. The way downstairs includes a non-functioning fireplace and some debate trophies.
 
 ![Image of stairway](photos/fireplace.jpg)
+![Image of stairway](photos/fire_place_gavel.JPG)
 
-The chalkboard still sports Trump jokes from November 2016.
+The chalkboard used to sport Trump jokes from November 2016. Now it says, "Go where people sleep and see if they are safe" with an arrow pointing to it saying, "This is how you end up on an e-mail from Cornell Police."
 
-![Image of board](photos/trump_board.jpg)
+![Image of board](photos/chalkboard1.JPG)
 
 This is the Dutch, another cuddle spot. House members might nap here between classes.
+
+![Image of board](photos/dutch_stuff1.JPG)
+
+We've still got some Nintendo 64 games. 
+
+![Image of games](photos/dutch_stuff2.JPG)
 
 Pool games are competitive as ever. 
 
 ![Image of pool](photos/pool.JPG)
+![Image of pool](photos/pool2.JPG)
+![Image of pool](photos/pool3.JPG)
+
+Still trying to figure out what this is. 
+
+![Image of games](photos/dutch_stuff3.JPG)
 
 The gym remains mostly unused, save for two or three people. Its walls are well dressed, though. My own art covers three of the four walls (guess which). 
 
@@ -78,10 +105,17 @@ The gym remains mostly unused, save for two or three people. Its walls are well 
 
 Ah, the dining room. Countless nights of drinking, allegedly intellectual discussions, spilled guacamole, broken glasses, incredibly well-prepared meals. Some of my best and worst memories are attached here. 
 
+![Image of dining room](photos/dining11.jpg)
+![Image of dining room](photos/dining12.jpg)
 ![Image of dining room](photos/dining6.jpg)
 ![Image of dining room](photos/dining2.JPG)
 ![Image of dining room](photos/dining3.JPG)
 ![Image of dining room](photos/dining4.jpg)
+
+Weird stuff is always hanging out here: a catapult, untamed plants...
+
+![Image of dining room](photos/kitchen_item1.JPG)
+![Image of dining room](photos/kitchen_item2.JPG)
 ![Image of dining room](photos/dining5.jpg)
 
 Carlos has fallen asleep on our old Steinway and Sons piano, which always seems to be out of tune. Let's leave him in peace...
@@ -90,8 +124,19 @@ Carlos has fallen asleep on our old Steinway and Sons piano, which always seems 
 
 A surprising amount of conversation is exchanged in the kitchen. But we have the most patient and generous workers. Thanks for keeping me in check and as our head chef says, "fattening us for the revolution."
 
-![Image of kitchen](photos/kitchen3.jpg)
-![Image of kitchen](photos/kitchen2.jpg)
+![Image of kitchen](photos/kitchen_room1.JPG)
+![Image of kitchen](photos/kitchen_room2.JPG)
+![Image of kitchen](photos/kitchen_room3.JPG)
+![Image of kitchen](photos/kitchen_room4.JPG)
+
+This is where we used to hide any hard liquor - now it's just oven cleaner.
+
+![Image of kitchen](photos/kitchen_room6.JPG)
+
+Oven cleaner, for our industrial stove and equipment.
+
+![Image of kitchen](photos/kitchen_room8.JPG)
+![Image of kitchen](photos/kitchen_room9.JPG)
 
 Telluride has a food budget each year of about $77,000 USD [[2]](#notes). This covers three meals for every day of the week, with room for several friends and guests. Even so, there are leftovers. This was the food we had to throw away before winter break last year.
 
