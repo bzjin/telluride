@@ -1,5 +1,4 @@
-## The Telluride House
-#### By Beatrice Jin
+#### By [Beatrice Jin](https://twitter.com/beatricezjin)
 
 This is the Cornell Branch of the Telluride House. I lived here for two and half years (five semesters) during my undergrad. Among other things, Telluride has been called:
 
