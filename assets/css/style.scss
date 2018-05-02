@@ -30,4 +30,7 @@ li {
 
 section {
   float: left;
+  display: block;
+  clear: both;
+  border: none;
 }
