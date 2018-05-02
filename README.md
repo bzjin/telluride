@@ -48,12 +48,12 @@ House members use this space for public speeches, cuddling, and general hangouts
 ![Image of living room](photos/living4.jpg)
 ![Image of living room](photos/livingroom.jpg)
 ![Image of living room](photos/living5.JPG)
-![Image of living room](photos/living6.jpg)
+![Image of living room](photos/living6.JPG)
 
 Two open doors and a secret door behind the projector screen lead to the music room and library.
 
 ![Image of library](photos/library_room.JPG)
-![Image of library](photos/library3.jpg)
+![Image of library](photos/library3.JPG)
 ![Image of library](photos/library4.jpg)
 ![Image of library](photos/music.JPG)
 
@@ -92,7 +92,7 @@ We've still got some Nintendo 64 games.
 
 Pool games are competitive as ever. 
 
-![Image of pool](photos/pool.jpg)
+![Image of pool](photos/pool.JPG)
 ![Image of pool](photos/pool2.JPG)
 ![Image of pool](photos/pool3.JPG)
 
@@ -117,7 +117,7 @@ Ah, the dining room. Countless nights of drinking, allegedly intellectual discus
 ![Image of dining room](photos/dining12.JPG)
 ![Image of dining room](photos/dining6.jpg)
 ![Image of dining room](photos/dining2.JPG)
-![Image of dining room](photos/dining3.jpg)
+![Image of dining room](photos/dining3.JPG)
 ![Image of dining room](photos/dining4.jpg)
 
 Weird stuff is always hanging out here: a catapult, untamed plants...
