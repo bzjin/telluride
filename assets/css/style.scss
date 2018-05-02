@@ -12,8 +12,8 @@ img {
   height: auto;
 }
 
-header ul a{
-  width: 100%;
+header ul li a {
+  width: 100% !important;
   text-align: left !important;
   height: auto !important;
   margin: 0px !important;
@@ -21,13 +21,6 @@ header ul a{
   border: 0px !important;
   background: none !important;
   list-style-type: circle  !important;
-}
-
-header li {
-  text-align: left !important;
-  display: block !important;
-  float: left !important;
-  clear: left !important;
 }
 
 section {
