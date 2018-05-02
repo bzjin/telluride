@@ -48,13 +48,13 @@ House members use this space for public speeches, cuddling, and general hangouts
 ![Image of living room](photos/living4.jpg)
 ![Image of living room](photos/livingroom.jpg)
 ![Image of living room](photos/living5.JPG)
-![Image of living room](photos/living6.JPG)
+![Image of living room](photos/living6.jpg)
 
 Two open doors and a secret door behind the projector screen lead to the music room and library.
 
 ![Image of library](photos/library_room.JPG)
-![Image of library](photos/library3.JPG)
-![Image of library](photos/library4.JPG)
+![Image of library](photos/library3.jpg)
+![Image of library](photos/library4.jpg)
 ![Image of library](photos/music.JPG)
 
 They are full of books, encyclopedias, old records, dusty documents, and theses.
@@ -65,7 +65,7 @@ They are full of books, encyclopedias, old records, dusty documents, and theses.
 
 The striped room looms on the other side of the foyer. Easily the most intense room - home to 5AM house meetings, heated arguments that have broken friendships. This is where all legislation is discussed and passed. 
 
-![Image of striped room](photos/striped_room_full.jpg)
+![Image of striped room](photos/striped_room_full.JPG)
 ![Image of striped room](photos/striped3.jpg)
 ![Image of Samir](photos/samir.jpg)
 
@@ -92,7 +92,7 @@ We've still got some Nintendo 64 games.
 
 Pool games are competitive as ever. 
 
-![Image of pool](photos/pool.JPG)
+![Image of pool](photos/pool.jpg)
 ![Image of pool](photos/pool2.JPG)
 ![Image of pool](photos/pool3.JPG)
 
@@ -113,11 +113,11 @@ We'll pass briefly by the laundry room; also the source of endless toilet paper 
 
 Ah, the dining room. Countless nights of drinking, allegedly intellectual discussions, spilled guacamole, broken glasses, incredibly well-prepared meals. Some of my best and worst memories are attached here. 
 
-![Image of dining room](photos/dining11.jpg)
-![Image of dining room](photos/dining12.jpg)
+![Image of dining room](photos/dining11.JPG)
+![Image of dining room](photos/dining12.JPG)
 ![Image of dining room](photos/dining6.jpg)
 ![Image of dining room](photos/dining2.JPG)
-![Image of dining room](photos/dining3.JPG)
+![Image of dining room](photos/dining3.jpg)
 ![Image of dining room](photos/dining4.jpg)
 
 Weird stuff is always hanging out here: a catapult, untamed plants...
@@ -152,7 +152,7 @@ Telluride has a food budget each year of about $77,000 USD [[2]](#notes). This c
 
 Back upstairs. These stain glass windows give the whole house a golden glow every evening. 
 
-![Image of stainglass](photos/stainglass.jpg)
+![Image of stainglass](photos/glow.JPG)
 
 We got some physics notation on the restroom sign.
 
@@ -177,6 +177,7 @@ If only someone would let me in through the window.
 ![Image of side balcony](photos/side_balcony8.JPG)
 
 No one came. Back down we go. 
+
 ![Image of side balcony](photos/side_balcony9.JPG)
 
 I never spent much time in the branch office. 
@@ -226,7 +227,7 @@ Outside the bedrooms we've got a staircase to the attic.
 
 Mostly used to store stuff, although rumored to have housed some hanky panky activities. 
 
-![Image of attic](photos/attic_1.jpg)
+![Image of attic](photos/attic_1.JPG)
 
 Never mind that. This ladder leads to the roof...
 
