@@ -12,7 +12,7 @@ img {
   height: auto;
 }
 
-ul {
+header ul {
   text-align: left;
   height: auto;
   margin: 0px !important;
@@ -22,7 +22,8 @@ ul {
   list-style-type: circle  !important;
 }
 
-li {
+header li {
+  text-align: left;
   display: block;
   float: left;
   clear: left;
