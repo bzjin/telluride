@@ -18,7 +18,7 @@ Here's a floor plan of Telluride, obtained from the City of Ithaca. Standing at 
 ![Image of floor plan](documents/floor1.png)
 ![Image of floor plan](documents/floor2.png)
 
-{#porch}
+<p id="porch"></p>
 First up is the front porch - home to meals on warm afternoons, drinks on pretty much any night. You’ll have encountered this area at any of Telluride’s open events
 
 ![Image of porch](photos/porch4.jpg)
