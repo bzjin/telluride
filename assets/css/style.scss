@@ -28,7 +28,8 @@ li {
   clear: left;
 }
 
-section {
+section#id {
+  width: 100%;
   float: left;
   display: block;
   clear: both;
