@@ -52,6 +52,7 @@ House members use this space for public speeches, cuddling, and general hangouts
 ![Image of living room](photos/living5.JPG)
 ![Image of living room](photos/living6.JPG)
 
+<p id="library"></p>
 Two open doors and a secret door behind the projector screen lead to the music room and library.
 
 ![Image of library](photos/library_room.JPG)
@@ -65,6 +66,7 @@ They are full of books, encyclopedias, old records, dusty documents, and theses.
 ![Image of books](photos/library_books3.JPG)
 ![Image of books](photos/library_books4.JPG)
 
+<p id="striped"></p>
 The striped room looms on the other side of the foyer. Easily the most intense room - home to 5AM house meetings, heated arguments that have broken friendships. This is where all legislation is discussed and passed. 
 
 ![Image of striped room](photos/striped_room_full.JPG)
@@ -84,6 +86,7 @@ The chalkboard used to sport Trump jokes from November 2016. Now it says, "Go wh
 
 ![Image of board](photos/chalkboard1.JPG)
 
+<p id="dutch"></p>
 This is the Dutch, another cuddle spot. House members might nap here between classes.
 
 ![Image of board](photos/dutch_stuff1.JPG)
@@ -102,6 +105,7 @@ Still trying to figure out what this is.
 
 ![Image of games](photos/dutch_stuff3.JPG)
 
+<p id="gym"></p>
 The gym remains mostly unused, save for two or three people. Its walls are well dressed, though. My own art covers three of the four walls (guess which). 
 
 ![Image of gym](photos/gym1.jpg)
@@ -113,6 +117,7 @@ We'll pass briefly by the laundry room; also the source of endless toilet paper 
 
 ![Image of gym](photos/laundry.JPG)
 
+<p id="dining"></p>
 Ah, the dining room. Countless nights of drinking, allegedly intellectual discussions, spilled guacamole, broken glasses, incredibly well-prepared meals. Some of my best and worst memories are attached here. 
 
 ![Image of dining room](photos/dining11.JPG)
@@ -132,6 +137,7 @@ Carlos has fallen asleep on our old Steinway and Sons piano, which always seems 
 
 ![Image of dining room](photos/dining1.jpg)
 
+<p id="kitchen"></p>
 A surprising amount of conversation is exchanged in the kitchen. But we have the most patient and generous workers. Thanks for keeping me in check and as our head chef says, "fattening us for the revolution."
 
 ![Image of kitchen](photos/kitchen_room1.JPG)
@@ -160,6 +166,7 @@ We got some physics notation on the restroom sign.
 
 ![Image of restroom](photos/restroom.JPG)
 
+<p id="side"></p>
 Remember not to get locked out on the side balcony.
 
 ![Image of side balcony](photos/side_balcony3.JPG)
@@ -182,6 +189,7 @@ No one came. Back down we go.
 
 ![Image of side balcony](photos/side_balcony9.JPG)
 
+<p id="office"></p>
 I never spent much time in the branch office. 
 
 ![Image of branch office](photos/branch_office1.JPG)
@@ -194,6 +202,7 @@ The office door beckons us to the balcony.
 
 ![Image of branch office](photos/branch_office2.JPG)
 
+<p id="balcony"></p>
 You can see a couple fraternities from the balcony. Maybe smell some smoke too. 
 
 ![Image of balcony](photos/balcony_full.JPG)
@@ -208,6 +217,7 @@ Like, really broken.
 
 ![Image of balcony](photos/balcony4.JPG)
 
+<p id="bedroom"></p>
 We're blessed with massive bedrooms, even for doubles. 
 
 ![Image of room](photos/room1.jpg)
@@ -227,6 +237,7 @@ Outside the bedrooms we've got a staircase to the attic.
 
 ![Image of attic hallway](photos/balcony6.JPG)
 
+<p id="attic"></p>
 Mostly used to store stuff, although rumored to have housed some hanky panky activities. 
 
 ![Image of attic](photos/attic_1.JPG)
@@ -235,6 +246,7 @@ Never mind that. This ladder leads to the roof...
 
 ![Image of attic stairs](photos/attic_stairs.jpg)
 
+<p id="roof"></p>
 ...which unveils a unique and beautiful view of the city of Ithaca. A lot more can be said about that, but we can talk about it later. 
 
 ![Image of roof view](photos/roof_view1.jpg)
