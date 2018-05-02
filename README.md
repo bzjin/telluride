@@ -69,7 +69,11 @@ The striped room looms on the other side of the foyer. Easily the most intense r
 ![Image of striped room](photos/striped3.jpg)
 ![Image of Samir](photos/samir.jpg)
 
-Let's move on from the hard stuff. The way downstairs includes a non-functioning fireplace and some debate trophies.
+Let's move on from the hard stuff. We'll skip the elevator, which not a lot of people trust.
+
+![Image of elevator](photos/elevator.JPG)
+
+The way downstairs includes a non-functioning fireplace and some debate trophies.
 
 ![Image of stairway](photos/fireplace.jpg)
 ![Image of stairway](photos/fire_place_gavel.JPG)
@@ -102,6 +106,10 @@ The gym remains mostly unused, save for two or three people. Its walls are well 
 ![Image of gym](photos/gym2.jpg)
 ![Image of gym](photos/gym3.jpg)
 ![Image of gym](photos/gym4.jpg)
+
+We'll pass briefly by the laundry room; also the source of endless toilet paper and paper towels. 
+
+![Image of gym](photos/laundry.JPG)
 
 Ah, the dining room. Countless nights of drinking, allegedly intellectual discussions, spilled guacamole, broken glasses, incredibly well-prepared meals. Some of my best and worst memories are attached here. 
 
@@ -146,14 +154,48 @@ Back upstairs. These stain glass windows give the whole house a golden glow ever
 
 ![Image of stainglass](photos/stainglass.jpg)
 
-I never spent much time in the branch office. These are new computers; the old ones were found thrown in the gorge next door a couple months ago. 
+We got some physics notation on the restroom sign.
+
+![Image of restroom](photos/restroom.JPG)
+
+Remember not to get locked out on the side balcony.
+
+![Image of side balcony](photos/side_balcony3.JPG)
+
+Just another broken wine glass chilling with the view. 
+
+![Image of side balcony](photos/side_balcony2.JPG)
+
+If you do get locked out, there's a fire escape to the floor above...
+
+![Image of side balcony](photos/side_balcony1.JPG)
+![Image of side balcony](photos/side_balcony5.JPG)
+
+If only someone would let me in through the window.
+
+![Image of side balcony](photos/side_balcony7.JPG)
+![Image of side balcony](photos/side_balcony8.JPG)
+
+No one came. Back down we go. 
+![Image of side balcony](photos/side_balcony9.JPG)
+
+I never spent much time in the branch office. 
+
+![Image of branch office](photos/branch_office1.JPG)
+
+Those are new computers; the old ones were found thrown in the gorge next door a couple months ago. 
 
 ![Image of email regarding computers](documents/office_cpus.jpg)
+
+The office door beckons us to the balcony.
+
+![Image of branch office](photos/branch_office2.JPG)
 
 You can see a couple fraternities from the balcony. Maybe smell some smoke too. 
 
 ![Image of balcony](photos/balcony_full.JPG)
 ![Image of balcony](photos/balcony2.jpg)
+![Image of balcony](photos/DU_bro.JPG)
 
 Since our previous House and Grounds committee left, the chairs have been left broken.
 
@@ -178,7 +220,11 @@ Here are some views I had from different bedroom windows throughout the semester
 ![Image of room view](photos/bedroom_view1.jpg)
 ![Image of room view](photos/bedroom_view2.JPG)
 
-Another floor up and we're at the attic. Mostly used to store stuff, although rumored to have housed some hanky panky activities. 
+Outside the bedrooms we've got a staircase to the attic.
+
+![Image of attic hallway](photos/balcony6.JPG)
+
+Mostly used to store stuff, although rumored to have housed some hanky panky activities. 
 
 ![Image of attic](photos/attic_1.jpg)
 
