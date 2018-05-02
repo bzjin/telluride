@@ -28,6 +28,7 @@ First up is the front porch - home to meals on warm afternoons, drinks on pretty
 ![Image of porch](photos/porch2.jpg)
 ![Image of porch](photos/porch.JPG)
 
+<p id="foyer"></p>
 Let’s go inside. This is the foyer, where we set up receptions and get our mail. 
 
 ![Image of foyer](photos/foyer4.jpg)
@@ -38,6 +39,7 @@ These phones are what really date this place (the House was first opened in 1911
 ![Image of phone](photos/phone1.JPG)
 ![Image of foyer](photos/phone2.JPG)
 
+<p id="living"></p>
 Take a left; we’re at the living room. This room hasn’t changed much for the past 100 years. The second image here is a photograph of the same room circa 1912.
 
 ![Image of living room](photos/living_room.JPG)
