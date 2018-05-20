@@ -23,13 +23,13 @@ header ul li a {
   list-style-type: circle  !important;
 }
 
+
 section {
   display: block;
   border: none;
+  width: 800px;
 }
 
-h1 a {
-  color: white;
-  background-color: black;
-  padding: 2px;
+.wrapper {
+  width: 100%
 }
