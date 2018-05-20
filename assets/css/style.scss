@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 
 p {
-  color: black
+  color: black;
+  font-family: Georgia, serif;
+  width: 500px;
+  margin: 0 auto;
 }
 
 img {
