@@ -3,16 +3,9 @@
 
 @import "{{ site.theme }}";
 
-p, ul li {
+p {
   color: black;
-  font-family: Georgia, serif;
-  width: 500px;
-  margin: 0 auto;
-}
-
-img {
-  width: 800px;
-  margin: 0 auto;
+  font-size: 1.2em;
 }
 
 img {
