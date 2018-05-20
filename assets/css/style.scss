@@ -3,10 +3,15 @@
 
 @import "{{ site.theme }}";
 
-p {
+p, ul li {
   color: black;
   font-family: Georgia, serif;
   width: 500px;
+  margin: 0 auto;
+}
+
+img {
+  width: 800px;
   margin: 0 auto;
 }
 
